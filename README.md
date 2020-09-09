@@ -51,9 +51,7 @@
 
 <br />
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18L242&theme=dracula)](https://github.com/18L242/github-readme-stats)
 ![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=18L242&show_icons=true&theme=dracula)
-[![Sudhir's Card](https://github-readme-stats.vercel.app/api/pin/?username=18L242&repo=18L242&theme=dracula)](https://github.com/18L242/18L242)
 
 <br />
 
