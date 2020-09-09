@@ -1,19 +1,64 @@
-<h1 align="center">Hi 👋, I'm Sudhir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there, I'm Sudhir 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhir502" alt="sudhir502" /> </p>
+## I'm a Electronics and Communication Engineer and a passionate MERN Stack Developer!
+- 👨‍🎓 I'm currently studying at <a href="https://kce.ac.in/" target="_blank">Karpagam College of Engineering</a>, Coimbatore
+- 👨‍💻 I'm currently learning Android App Development 📱 and Data Science 📊
+- 🥅 2020 Goals: To become a Freelancer
+- 🤪 Fun Fact: I convert coffee ☕ into code 📃
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/></p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhir502&layout=compact&hide=html" alt="sudhir502" /></p>
+### 🛠 Programming Languages and Tools Known:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhir502&show_icons=true" alt="sudhir502" /></p>
+<p align="left">
+  <img align="left" alt="html5-icon" width="22px" src="http://simpleicons.org/icons/html5.svg" />
+  <img align="left" alt="css3-icon" width="22px" src="http://simpleicons.org/icons/css3.svg" />
+  <img align="left" alt="sass-icon" width="22px" src="http://simpleicons.org/icons/sass.svg" />
+  <img align="left" alt="react-icon" width="22px" src="http://simpleicons.org/icons/react.svg" />
+  <img align="left" alt="bootstrap-icon" width="22px" src="http://simpleicons.org/icons/bootstrap.svg" />
+  <img align="left" alt="mongodb-icon" width="22px" src="http://simpleicons.org/icons/mongodb.svg" />
+  <img align="left" alt="node-icon" width="22px" src="http://simpleicons.org/icons/node-dot-js.svg" />
+  <img align="left" alt="git-icon" width="22px" src="http://simpleicons.org/icons/git.svg" />
+  <img align="left" alt="javascript-icon" width="22px" src="http://simpleicons.org/icons/javascript.svg" />
+  <img align="left" alt="c-icon" width="22px" src="http://simpleicons.org/icons/c.svg" />
+  <img align="left" alt="java-icon" width="22px" src="http://simpleicons.org/icons/java.svg" />
+  <img align="left" alt="python-icon" width="22px" src="http://simpleicons.org/icons/python.svg" />
+  <img align="left" alt="scala-icon" width="22px" src="http://simpleicons.org/icons/scala.svg" />
+  <img align="left" alt="r-icon" width="22px" src="http://simpleicons.org/icons/r.svg" />
+  <img align="left" alt="kotlin-icon" width="22px" src="http://simpleicons.org/icons/kotlin.svg" />
+  <img align="left" alt="apachespark-icon" width="22px" src="http://simpleicons.org/icons/apachespark.svg" />
+  <img align="left" alt="firebase-icon" width="22px" src="http://simpleicons.org/icons/firebase.svg" />
+  <img align="left" alt="aws-icon" width="22px" src="http://simpleicons.org/icons/amazonaws.svg" />
+  <img align="left" alt="googlecloud-icon" width="22px" src="http://simpleicons.org/icons/googlecloud.svg" />
+<p/>
 
-<p align="center">
-<a href="https://twitter.com/sudhir_025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sudhir_025" height="30" width="30" margin="20px" /></a>
-<a href="https://linkedin.com/in/sudhir-b-a7376b1b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudhir-b-a7376b1b6" height="30" width="30" /></a>
-<a href="https://fb.com/sudhir.babusivaraman.58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sudhir.babusivaraman.58" height="30" width="30" /></a>
-<a href="https://instagram.com/sudhir.2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sudhir.2001" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/sudhir2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sudhir2001" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/bsudhir205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="bsudhir205" height="30" width="30" /></a>
-</p>
+<br />
+<br />
+
+### 📌 Connect with me:
+
+[<img align="left" alt="facebook-icon" width="22px" src="http://simpleicons.org/icons/facebook.svg"/>][facebook]
+[<img align="left" alt="instagram-icon" width="22px" src="http://simpleicons.org/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="twitter-icon" width="22px" src="http://simpleicons.org/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="linkedin-icon" width="22px" src="http://simpleicons.org/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="github-icon" width="22px" src="http://simpleicons.org/icons/github.svg"/>][github]
+
+
+<br />
+
+
+---
+
+<br />
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=18L242&theme=dracula)](https://github.com/18L242/github-readme-stats)
+![Sudhir's github stats](https://github-readme-stats.vercel.app/api?username=18L242&show_icons=true&theme=dracula)
+[![Sudhir's Card](https://github-readme-stats.vercel.app/api/pin/?username=18L242&repo=18L242&theme=dracula)](https://github.com/18L242/18L242)
+
+<br />
+
+[facebook]: https://fb.com/sudhir.babusivaraman.58
+[instagram]: https://instagram.com/sudhir.2001
+[twitter]: https://twitter.com/sudhir_025
+[linkedin]: https://linkedin.com/in/sudhir-b-a7376b1b6
+[github]: https://github.com/Sudhir205
