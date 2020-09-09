@@ -10,7 +10,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhir502&show_icons=true" alt="sudhir502" /></p>
 
 <p align="center">
-<a href="https://twitter.com/sudhir_025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sudhir_025" height="30" width="30" /></a>
+<a href="https://twitter.com/sudhir_025" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sudhir_025" height="30" width="30" margin="20px" /></a>
 <a href="https://linkedin.com/in/sudhir-b-a7376b1b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sudhir-b-a7376b1b6" height="30" width="30" /></a>
 <a href="https://fb.com/sudhir.babusivaraman.58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sudhir.babusivaraman.58" height="30" width="30" /></a>
 <a href="https://instagram.com/sudhir.2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sudhir.2001" height="30" width="30" /></a>
